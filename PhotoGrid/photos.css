@@ -1,0 +1,22 @@
+img {
+  float: left;
+  width: 30%;
+  margin: 1%
+}
+
+#name {
+  font-family: 'Mansalva';
+
+  font-size: 50px;
+  font-weight: 800;
+  margin-left: 1%;
+  text-transform: uppercase;
+  border-bottom: 3px solid #F1F1F1;
+  width: 305px;
+}
+
+p {
+  font-family: 'Vibes';
+  font-size: 20px;
+  margin-left: 1%;
+}
